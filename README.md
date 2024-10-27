@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![Temperature Converter](./icon/checked.png)
+![Temperature Converter](./icon/temperature-converter-8omel.png)
 
 ## Overview
 
