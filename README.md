@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![Temperature Converter](https://assets.roadmap.sh/guest/temperature-converter-8omel.png)
+![Temperature Converter](./icon/checked.png)
 
 ## Overview
 
