@@ -25,6 +25,15 @@ body {
     position: relative;
 }
 
+#temp-input {
+    appearance: textfield;
+    border: 2px solid black;
+    padding: 0.4em 0.7em;
+    border-radius: 0.5em;
+    font-size: 1.2em;
+    width: 100px;
+
+}
 .dropdown-head {
     display: flex;
     font-size: 1.2em;
@@ -71,6 +80,15 @@ body {
 }
 .convert-btn-div {
     display: none;
+}
+#convert-btn {
+    border: none;
+    padding: 0.6em 0.7em;
+    border-radius: 0.5em;
+    font-size: 1em;
+    width: 100px;
+    background-color: black;
+    color: #fff;
 }
 .result {
     position: absolute;

@@ -60,15 +60,15 @@ function removeIcon(element) {
 
 
 function showButton() {
-    if (dropdownHead.firstElementChild.textContent != "Select an Item" &&
-        dropdownHead2.firstElementChild.textContent != "Select an Item" && tempInput.value) {
+    if (dropdownHead.firstElementChild.textContent != "From Unit" &&
+        dropdownHead2.firstElementChild.textContent != "To Unit" && tempInput.value) {
         document.getElementById('convert-btn-div').classList.add('show-btn')
 
     }
 }
 
-//need to get values of dropdownHead and 2 and 
-//value of tempInput and then resultText and change text content
+//need to get values of dropdownHead, 2 and 
+//value of tempInput and then resultText and change text content of resultText
 
 function convertTemp() {
     const fromUnit = dropdownHead.firstElementChild.textContent
